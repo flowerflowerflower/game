@@ -7,7 +7,7 @@ package vanke.cer.a.game.adapter;
 public class Animal {
 
     public void eat(){
-        System.out.print("eating");
+         System.out.print("eating");
     }
 
     public void drink(){
